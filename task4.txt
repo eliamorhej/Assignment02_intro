@@ -1,0 +1,16 @@
+Atom vs Terminal Commands
+
+Both tools have their pros and cons. Atom is user-friendly,
+ makes things easier when you’re working on the same machine and conveniently,
+ is a direct text-editor built into it on top of being able to use git. It’s also customizable with themes.
+
+On the other hand, getting used to using raw git commands from the terminal is the safest way
+of using git because it will work on any git-using machine,
+and is more favorable when you work on different machines just like us students.
+This way does however lack Atom’s user-friendliness.
+I think I prefer the raw git commands simply because I’m someone who sees learning the raw git commands as a useful thing,
+plus downloading Atom and getting it set up every single class is quite bothersome.
+ However, I have not dismissed Atom’s usefulness and I would consider using it or something similar in the future.
+
+
+

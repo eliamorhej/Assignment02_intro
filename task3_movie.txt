@@ -1,0 +1,22 @@
+1.What was the point made by Bill Gates in his Open Letter to Hobbyists?
+
+Essentially, he thought it was unfair for software to not be treated the same as hardware. 
+Software was shared and passed around from one to another making the need to buy it non-existent. 
+Consequentially, this made the time and effort it took to make this software worthless. 
+Some third-party sellers even sold software that was not made by them. 
+He wants to make people pay for individual copies of software 
+so that there is a reason to make quality software in the first place.
+
+2.What did Richard Stallman describe as an ethical dilemma?
+
+The dilemma was that Promising the parent company that you won’t share the software you buy from them,
+ therefore hurting the people who made it, also meant that you were betraying a cooperating community,
+ preventing said community from doing useful things and working together. Basically, 
+you were cutting yourself off from working with others because at the time not everyone was able to afford needed software.
+
+3.What are the freedoms that enable people to form a community?
+
+Freedom to make changes to software if you want to,
+ share the software and make improvements to software and publish them for others as well.
+
+
